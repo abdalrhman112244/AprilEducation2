@@ -2,7 +2,7 @@
   "name": "april",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://abdalrhman112244.github.io/AprilEducation/",
+  "homepage": "https://abdalrhman112244.github.io/AprilEducation2/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
